@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LillydooAppTask</string>
+
+    <string name="dialog_one_txt">Du hattest Probleme mit Deiner letzten\nBestellung und willst sie\nzurucksenden?</string>
+    <string name="dialog_two_txt">Du hast Fragen? Dann melde\nDich gerne:</string>
+</resources>
